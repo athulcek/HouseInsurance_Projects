@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: houseins-model
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: athulbabu
+Implementation-Vendor-Id: com.service.houseins
+Build-Jdk: 1.8.0_31
+Implementation-URL: http://projects.spring.io/spring-boot/houseins-api
+ /houseins-model/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
